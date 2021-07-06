@@ -1,0 +1,227 @@
+*{
+padding: 0;
+margin: 0;
+text-decoration: none;
+font-family: 'Montserrat', sans-serif;
+list-style: none;
+}
+/* navvar */
+.menu{
+    display: flex;
+    margin-bottom: 10px;
+    padding-left: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    color:rgb(20, 9, 9);
+
+background-color: rgb(226, 171, 70);
+}
+.menu-list{
+padding-left: 20px;
+font-size: 20px;
+font-weight: 500;
+
+}
+/* navvarclose */
+
+/* 1stpara start */
+.caption{
+margin-left: 10px;
+padding: 10px 10px;
+
+}
+
+.food-network{
+display: flex;
+margin-bottom: 50px;
+}
+.head-line{
+padding-left: 50px;
+padding-bottom: 20px;
+padding-top: 20px;
+font-size: 50px;
+font-weight: 900;
+margin-right: 10px;
+color: rgb(48, 44, 44);
+}
+
+.food-para{
+    font-size: 25px;
+    font-weight: 700;
+    padding-left: 50px;
+    padding-top: 50px;
+    color: rgb(146, 127, 127);
+    padding-bottom: 40px;
+}
+.food-btn{
+padding: 10px 40px;
+background-image: linear-gradient(orange,red);
+font-weight: 700;
+margin-left: 50px;
+
+margin-top: 10px;
+color: honeydew;
+border-radius: 20px;
+
+
+}
+
+span{
+color: orange;
+}
+/* 1st paraclose */
+
+/* 2ndpara start */
+.aboutme-title{
+padding-top: 350px;
+padding-left:30px ;
+padding-right: 20px;
+padding-bottom: 50px;
+font-weight: 700;
+color: gray;
+font-size: xx-large;
+}
+.about-para{
+padding-bottom: 50px;
+padding-right: 20px;
+font-size: 20px;
+
+}
+.about-me{
+
+    display: flex;
+    background-image: url(img/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+
+/* 2ndpara close */
+
+/* 3rdpara :start */
+.my-reci-title{
+text-align: center;
+font-weight: 600;
+padding-bottom: 30px;
+padding-top: 30px;
+font-size: xx-large;
+color: gray;
+}
+
+.slide-caption-para{
+
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    font-size: 2opx;
+    font-weight: 700;
+    
+    }
+
+
+
+
+.recipie-slide{
+display: flex;
+}
+
+.slide1{
+
+    width:40%;
+    margin-left: 10%;
+    margin-right: 5%;
+    padding-left: 12px;
+    box-shadow: 25px 25px 70px gray;
+    border-radius: 20px;
+ 
+}
+.slide1 img,.slide2 img,.slide3 img{
+
+  
+    padding-left: 12px;
+    box-shadow: 15px 15px 50px gray;
+    border-radius: 20px;
+ 
+}
+.slide2{
+
+    width:40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 12px;
+    box-shadow: 15px 15px 50px gray;
+    border-radius: 20px;
+ 
+}
+.slide3{
+
+    width:40%;
+    margin-left: 5%;
+    margin-right: 10%;
+    padding-left: 12px;
+    box-shadow: 15px 15px 50px gray;
+    border-radius: 20px;
+ 
+}
+/* 3rdpara-close */
+/* last-para */
+
+#last-container{
+
+margin-top: 50px;
+margin-bottom: 50px;
+margin-left: 50px;
+margin-right: 50px;
+    padding-left: 12px;
+    box-shadow: 15px 15px 50px gray;
+    border-radius: 20px;
+
+ 
+
+}
+
+.last-part{
+display: flex;
+padding-top: 100px;
+padding-bottom: 40px;
+padding-left: 440px;
+padding-right: 40px;
+font-size: 50px;
+font-weight: 600;
+}
+.last-part-li{
+margin-right: 30px;
+padding-bottom: 5px;
+}
+
+.last-part2{
+    display: flex;
+    font-size: 15px;
+font-weight: 600;
+padding-left: 440px;
+}
+
+.last-part-li{
+    margin-right: 30px;
+    margin-bottom: 45px;
+padding-left: 20px;
+    }
+.footer-div{
+    background-color: rgb(0, 0, 14);
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.footer-div-title{
+text-align: center;
+font-size: xx-large;
+font-weight: 600;
+color: gray;
+}
+.footer-div-title-special{
+    color: rgb(117, 73, 57);
+}
+.footer-div-para{
+font-size: 25px;
+padding-top: 30px;
+padding-left: 530px;
+color: cornsilk;
+}
